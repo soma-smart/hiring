@@ -1,18 +1,19 @@
 # 🚀 We are hiring: Cybersecurity Expert (H/F) 🔒
 
-## 📍 Location: [City / Remote]
+## 📍 Location: Paris
 ## 📅 Contract: [Full-time]
 ## 💰 Salary: [Range]
-## 🏢 Company: [Your Company Name]
+## 🏢 Company: SOMA
 
 ### 🛡️ About Us  
-[Brief company introduction: mission, industry, security challenges.]
-
----
+🚀Afin d’accompagner la forte croissance de SOMA, nous sommes à la recherche de consultant(e)s Data expert(e)s cybersécurité pour développer notre offre. 
+Ta mission :
+En tant que Consultant(e) Cybersécurité, tu seras en responsabilité sur la sécurisation des systèmes d’information, des infrastructures et des réseaux. Tu participeras également à la conception, la construction, le déploiement et le maintien en production d’architectures Big Data. Tu intègreras une équipe projet Big Data pour travailler sur des problématiques d’architecture et de conception dans un contexte de cybersécurité. 
 
 ### 🎯 Responsibilities  
 
--  Missions d’audit et propositions d’axes d'amélioration orientés cybersécurité. Implication active au sein de l’équipe cyber du client : meeting, reporting, ateliers techniques, réunions projets… 
+-  Missions d’audit et propositions d’axes d'amélioration orientés cybersécurité.
+-  Implication active au sein de l’équipe cyber du client : meeting, reporting, ateliers techniques, réunions projets… 
 - Mise en place de pipelines SecOps 
 - Analyse et remédiation de vulnérabilités post Audit ou Pen test  
 - Mise en place d’architecture de data product avec une approche "Secure by design" 
@@ -20,23 +21,16 @@
 - Elaboration de plans de tests destinés à vérifier la mise en place des mesures de sécurité 
 - Maintien d'une culture solide générale de la sécurisation des systèmes d’information et des produits de cybersécurité 
 
----
-
 ### 🛠️ Tech Stack  
-- **Pentest:** Kali Linux, Metasploit, Burp Suite  
-- **SIEM & Monitoring:** Splunk, ELK, Azure Sentinel  
-- **Cloud Security:** AWS Security Hub, Azure Defender  
-- **Compliance:** ISO 27001, NIST, SOC2  
-
----
+🔎Profil recherché :    
+-Une expérience significative dans la sécurisation des systèmes d'information, une solide expertise en Python, technologies de conteneurisation, Fortify, Hashicorp Vault & -Keycloak, sur du Cloud (AWS, Azure, GCP...) et idéalement dans le domaine de la cybersécurité 
 
 ### 🎓 Requirements  
-- 🎯 3+ years of experience in cybersecurity.  
+- 🎯 3+ years of experience in cybersecurity.
+- BAC+5 informatique / Ecole d’ingénieur 
 - 📜 Strong knowledge of network security, cryptography, and threat hunting.  
 - 🚀 Ability to work autonomously and handle critical incidents.  
-- 🗣️ Fluent in French & English.  
 
----
 
 ### 🎁 Why Join Us?  
 ✅ Innovative projects & strong security challenges.  
@@ -47,6 +41,6 @@
 ---
 
 📩 **Interested? Apply now!**  
-Send your CV & a few lines about your experience to **[email/contact]**  
+Send your CV & a few lines about your experience to **recrutement@soma-smart.com**  
 
-🔗 [Company website] | [GitHub profile] | [LinkedIn]
+🔗 [https://www.soma-smart.com/] | [GitHub profile] | [https://www.linkedin.com/company/soma-smart/posts/?feedView=al]
