@@ -1,7 +1,7 @@
 # 🚀 We are hiring: Cybersecurity Expert (H/F) 🔒
 
 ## 📍 Location: [City / Remote]
-## 📅 Contract: [Full-time / Freelance]
+## 📅 Contract: [Full-time]
 ## 💰 Salary: [Range]
 ## 🏢 Company: [Your Company Name]
 
