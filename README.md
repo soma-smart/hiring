@@ -11,12 +11,14 @@
 ---
 
 ### 🎯 Responsibilities  
-- 🔍 Perform security audits and penetration tests.  
-- 🛠️ Implement security strategies (SOC, SIEM, IDS/IPS, etc.).  
-- 🔐 Respond to security incidents and propose remediation plans.  
-- 📢 Train teams on best security practices.  
-- 🏴‍☠️ Conduct Red Team exercises to assess vulnerabilities.  
-- 🌍 Keep up with the latest cybersecurity threats and trends.  
+
+-  Missions d’audit et propositions d’axes d'amélioration orientés cybersécurité. Implication active au sein de l’équipe cyber du client : meeting, reporting, ateliers techniques, réunions projets… 
+- Mise en place de pipelines SecOps 
+- Analyse et remédiation de vulnérabilités post Audit ou Pen test  
+- Mise en place d’architecture de data product avec une approche "Secure by design" 
+- Mise en place d'outils de monitoring (collecte et traitement de logs pour le pilotage de la sécurité) 
+- Elaboration de plans de tests destinés à vérifier la mise en place des mesures de sécurité 
+- Maintien d'une culture solide générale de la sécurisation des systèmes d’information et des produits de cybersécurité 
 
 ---
 
