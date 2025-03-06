@@ -1,44 +1,44 @@
-# 🚀 We are hiring: Cybersecurity Expert (H/F) 🔒
+# Expert en Cybersécurité (H/F)
 
-### 📍 Location: Paris
-### 📅 Contract: [Full-time]
-### 💰 Salary: [46K-55k]
-### 🏢 Company: SOMA
+## SOMA | Paris | CDI | 46K-55K €
 
-### 🛡️ About Us  
-🚀In order to support SOMA's strong growth, we are looking for Data consultant cybersecurity experts to develop our offer. 
-Your mission:
-As a Cybersecurity Consultant, you will be responsible for securing information systems, infrastructures and networks. You will also participate in the design, construction, deployment and maintenance in production of Big Data architectures. You will join a Big Data project team to work on architecture and design issues in a cybersecurity context.
+### Notre entreprise
+SOMA est une entreprise innovante en pleine croissance, spécialisée dans les solutions Big Data et la sécurité des systèmes d'information. Dans le cadre de notre développement, nous recherchons un Expert en Cybersécurité pour renforcer notre équipe et développer notre offre de services.
 
-### 🎯 Responsibilities  
-- Audit missions and proposals for areas of improvement focused on cybersecurity.
-- Active involvement within the client's cyber team: meetings, reporting, technical workshops, project meetings, etc. 
-- Implementation of SecOps pipelines 
-- Analysis and remediation of post Audit or Pen test vulnerabilities  
-- Implementation of data product architecture with a "Secure by design" approach 
-- Implementation of monitoring tools (collection and processing of logs for security management) 
-- Development of test plans intended to verify the implementation of security measures 
-- Maintaining a solid general culture of securing information systems and cybersecurity products
+### Votre mission
+En tant qu'Expert en Cybersécurité, vous serez au cœur de notre stratégie de sécurisation des systèmes d'information, des infrastructures et des réseaux. Intégré(e) à une équipe projet Big Data, vous contribuerez à la conception, la construction, le déploiement et la maintenance d'architectures robustes, avec un focus particulier sur les enjeux de sécurité.
 
-### 🛠️ Tech Stack  
-🔎Profile sought:    
--Significant experience in securing information systems, solid expertise in Python, containerization technologies, Fortify, Hashicorp Vault & -Keycloak, on the Cloud (AWS, Azure, GCP...) and ideally in the field of cybersecurity
+### Responsabilités principales
+- Réaliser des missions d'audit et formuler des recommandations d'amélioration ciblées en matière de cybersécurité
+- Collaborer activement avec les équipes cyber de nos clients (participation aux réunions, reporting, ateliers techniques, suivi de projet)
+- Concevoir et mettre en œuvre des pipelines SecOps performants
+- Analyser et remédier aux vulnérabilités identifiées lors d'audits ou de tests d'intrusion
+- Développer des architectures de produits data selon une approche "Secure by design"
+- Déployer et configurer des outils de monitoring (collecte et traitement des logs pour la gestion de la sécurité)
+- Élaborer des plans de test pour vérifier l'efficacité des mesures de sécurité implémentées
+- Maintenir une veille technologique approfondie sur la sécurité des systèmes d'information et les solutions de cybersécurité
 
-### 🎓 Requirements  
-- 🎯 3+ years of experience in cybersecurity.
-- 🎓 BAC+5 informatique / Ecole d’ingénieur 
-- 📜 Strong knowledge of network security, cryptography, and threat hunting.  
-- 🚀 Ability to work autonomously and handle critical incidents.  
+### Compétences techniques requises
+- Expertise solide en Python et en technologies de conteneurisation
+- Maîtrise des outils Fortify, Hashicorp Vault et Keycloak
+- Expérience significative avec les environnements Cloud (AWS, Azure, GCP)
+- Connaissances approfondies en sécurité réseau, cryptographie et détection de menaces
 
+### Profil recherché
+- Diplôme Bac+5 en informatique ou École d'ingénieur
+- Minimum 3 ans d'expérience professionnelle en cybersécurité
+- Capacité à travailler de manière autonome et à gérer des incidents critiques
+- Esprit d'analyse, rigueur et excellentes aptitudes à la communication
 
-### 🎁 Why Join Us?  
-✅ Innovative projects & strong security challenges.  
-✅ Career growth & certification opportunities (OSCP, CEH, CISSP).  
-✅ Flexible working hours & remote-friendly.  
-✅ Passionate and supportive team.  
+### Nos avantages
+- Projets innovants et défis techniques stimulants dans le domaine de la sécurité
+- Opportunités d'évolution de carrière et de certifications reconnues (OSCP, CEH, CISSP)
+- Horaires flexibles et possibilité de télétravail partiel
+- Intégration au sein d'une équipe passionnée et collaborative
 
+## Processus de candidature
+Envoyez votre CV accompagné d'une brève présentation de votre parcours à **recrutement@soma-smart.com**
 
-📩 **Interested? Apply now!**  
-Send your CV & a few lines about your experience to **recrutement@soma-smart.com**  
-
-🔗 [https://www.soma-smart.com/] | [GitHub profile] | [https://www.linkedin.com/company/soma-smart/posts/?feedView=al]
+## Découvrez SOMA
+- Site web : [www.soma-smart.com](https://www.soma-smart.com/)
+- LinkedIn : [SOMA](https://www.linkedin.com/company/soma-smart/posts/?feedView=all)
