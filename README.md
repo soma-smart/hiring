@@ -1,9 +1,9 @@
 # 🚀 We are hiring: Cybersecurity Expert (H/F) 🔒
 
-## 📍 Location: Paris
-## 📅 Contract: [Full-time]
-## 💰 Salary: [46K-55k]
-## 🏢 Company: SOMA
+### 📍 Location: Paris
+### 📅 Contract: [Full-time]
+###💰 Salary: [46K-55k]
+### 🏢 Company: SOMA
 
 ### 🛡️ About Us  
 🚀In order to support SOMA's strong growth, we are looking for Data consultant cybersecurity experts to develop our offer. 
