@@ -2,7 +2,7 @@
 
 ### 📍 Location: Paris
 ### 📅 Contract: [Full-time]
-###💰 Salary: [46K-55k]
+### 💰 Salary: [46K-55k]
 ### 🏢 Company: SOMA
 
 ### 🛡️ About Us  
